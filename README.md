@@ -1,2 +1,2 @@
 # SpartaHack08
-SpartHack repo for the drone circuit
+SpartHack repo for the drone circuit;
